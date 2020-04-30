@@ -1,0 +1,104 @@
+{
+    "menu": [
+        {
+            "kategori": "paket hemat",
+            "nama": "hoka hemat 1",
+            "deskripsi": "nasi, acar, 1 Ekkado dan 3 Egg Chicken Roll.",
+            "harga": 27821,
+            "gambar": "hoka-hemat-1.jpg"
+        },
+        {
+            "kategori": "paket hemat",
+            "nama": "hoka hemat 2",
+            "deskripsi": "nasi, acar, 1 Tori Baaga dan 2 Egg Chicken Roll.",
+            "harga": 27821,
+            "gambar": "hoka-hemat-2.jpg"
+        },
+        {
+            "kategori": "paket hemat",
+            "nama": "hoka hemat 3",
+            "deskripsi": "nasi, acar, 2 Egg Chicken Roll dan 2 Shrimp Roll.",
+            "harga": 27821,
+            "gambar": "hoka-hemat-3.jpg"
+        },
+        {
+            "kategori": "paket hemat",
+            "nama": "hoka hemat 4",
+            "deskripsi": "nasi, acar, 1 Ekkaido dan 1 Tori Baaga.",
+            "harga": 27821,
+            "gambar": "hoka-hemat-4.jpg"
+        },
+        {
+            "kategori": "bento spesial",
+            "nama": "bento spesial 1",
+            "deskripsi": "nasi, acar, Chicken Teriyaki, 1 Tori no Teba, 1 Ebi Furai.",
+            "harga": 58850,
+            "gambar": "bento-spesial-1.jpg"
+        },
+        {
+            "kategori": "bento spesial",
+            "nama": "bento spesial 2",
+            "deskripsi": "nasi, acar, Beef Yakiniku, 1 Tori no Teba, 1 Kani Roll.",
+            "harga": 64201,
+            "gambar": "bento-spesial-2.jpg"
+        },
+        {
+            "kategori": "bento spesial",
+            "nama": "bento spesial 3",
+            "deskripsi": "nasi, acar, Beef Yakiniku, 1 Tori no Teba, 1 Ebi Furai, 1 Ebi Fried.",
+            "harga": 64201,
+            "gambar": "bento-spesial-3.jpg"
+        },
+        {
+            "kategori": "bento spesial",
+            "nama": "bento spesial 4",
+            "deskripsi": "nasi, acar, Beef Yakiniku, 1 Tori no Teba, 1 Ebi Furai, 1 Edi Fried.",
+            "harga": 64201,
+            "gambar": "bento-spesial-4.jpg"
+        },
+        {
+            "kategori": "kid bento",
+            "nama": "kid bento 1",
+            "deskripsi": "nasi, 3 Egg Chicken Roll, Scramble Egg, Kacang Polong, Milo.",
+            "harga": 35591,
+            "gambar": "kid-bento-1.jpg"
+        },
+        {
+            "kategori": "kid bento",
+            "nama": "kid bento 2",
+            "deskripsi": "nasi, 3 Tori Ball, Scramble Egg, Kacang Polong, Milo.",
+            "harga": 35591,
+            "gambar": "kid-bento-2.jpg"
+        },
+        {
+            "kategori": "kid bento",
+            "nama": "kid bento 3",
+            "deskripsi": "nasi, 1 Ebi Furai, 1 Crispy Chicken, Scramble Egg, Kacang Polong, Milo",
+            "harga": 35591,
+            "gambar": "kid-bento-3.jpg"
+        },
+        {
+            "kategori": "kid bento",
+            "nama": "kid bento 4",
+            "deskripsi": "nasi, 3 Tori Finger, Scramble Egg, Kacang Polong, Milo",
+            "harga": 35591,
+            "gambar": "kid-bento-4.jpg"
+        },
+        {
+
+            "kategori": "omiyage",
+            "nama": "Omiyage 4",
+            "deskripsi": "Chicken katsu, Ebi Fried, Egg Chicken Roll, Edamame, Chicken Teriyaki / Yakiniku, Beef Teriyaki / Yakiniku nasi + acar",
+            "harga": 177621,
+            "gambar": "Omiyage-4.jpg"
+        },
+        {
+
+            "kategori": "omiyage",
+            "nama": "omiyage 6",
+            "deskripsi": "Chicken katsu, Ebi Fried, Egg Chicken Roll, Shrimp Roll, Chicken Teriyaki / Yakiniku, Beef Teriyaki / Yakiniku (double portion) nasi + acar",
+            "harga": 284621,
+            "gambar": "Omiyage-6.jpg"
+        }
+    ]
+}
